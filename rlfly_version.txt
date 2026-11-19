@@ -1,0 +1,7 @@
+version=2.9.3
+min_version=2.9.3
+status=active
+message=This Version is outdated
+runtime_parts=2
+runtime_part1_url=https://raw.githubusercontent.com/AriyanPegu/astra-control/main/runtime.dat.part1
+runtime_part2_url=https://raw.githubusercontent.com/AriyanPegu/astra-control/main/runtime.dat.part2
